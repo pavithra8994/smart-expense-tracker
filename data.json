@@ -1,0 +1,50 @@
+[
+    {
+        "date": "12-3-2026",
+        "category": "Food",
+        "amount": 600.0,
+        "description": "outing"
+    },
+    {
+        "date": "15/3/2026",
+        "category": "Travel",
+        "amount": 6000.0,
+        "description": "cab and auto"
+    },
+    {
+        "date": "26/03/2026",
+        "category": "Bills",
+        "amount": 7000.0,
+        "description": "electricity"
+    },
+    {
+        "date": "12/3/2026",
+        "category": "Food",
+        "amount": 4000.0,
+        "description": "outside food "
+    },
+    {
+        "date": "4/6/2026",
+        "category": "Travel",
+        "amount": 200.0,
+        "description": "beacj"
+    },
+    {
+        "date": "1/6/2026",
+        "category": "Other",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "12/3/2026",
+        "category": "Bills",
+        "amount": 5000.0,
+        "description": "electrity"
+    },
+    {
+        "date": "12/3/2026",
+        "category": "Food",
+        "amount": 10000.0,
+        "description": "outside"
+    }
+]
